@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Komikcast" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#05050B</item>
+        <item name="android:statusBarColor">#05050B</item>
+    </style>
+</resources>
